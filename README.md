@@ -1,5 +1,9 @@
 # template-css
 
-1. custom para realizar adaptacion responsive
+Responsive template to media query in order to adjust the width and height proportions to various devices.
 
-2. archivo normalize.css (para todos los navegadores )
+## File CSS
+ 
+ Use the next file to see the proportions
+ 
+`media_query.css`
